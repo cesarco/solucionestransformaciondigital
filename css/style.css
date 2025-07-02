@@ -1,0 +1,67 @@
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #333;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: #0000;
+}
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+tr:nth-child(even) {
+    background: #f9f9f9;
+}
+input[type="text"], input[type="email"], input[type="date"] {
+    padding: 6px;
+    margin: 4px 0;
+    width: 200px;
+}
+button {
+    padding: 8px 16px;
+    margin: 8px 4px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background: #0056b3;
+}
+#employeesTable {
+    min-height: 300px;
+    min-width: 100%;
+    margin-top: 20px;
+}
+#employeesTable .tabulator {
+    background: #e3f0ff;
+    border-radius: 8px;
+}
+#employeesTable .tabulator-header {
+    background: #007bff;
+    color: #000;
+}
+#employeesTable .tabulator-row {
+    background: #f8fbff;
+}
+#employeesTable .tabulator-row.tabulator-selected {
+    background: #b3d4fc;
+}
+#employeesTable .tabulator-cell {
+    border-color: #b3d4fc;
+}

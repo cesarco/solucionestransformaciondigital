@@ -1,0 +1,58 @@
+[
+    {
+        "identificacion": "1001",
+        "nombre": "Juan Pérez",
+        "correo": "juan.perez@email.com",
+        "fecha_nacimiento": "1990-05-10",
+        "fecha_creacion": "2024-07-01",
+        "cargo": "Desarrollador"
+    },
+    {
+        "identificacion": "1002",
+        "nombre": "Ana Gómez",
+        "correo": "ana.gomez@email.com",
+        "fecha_nacimiento": "1985-11-23",
+        "fecha_creacion": "2024-07-02",
+        "cargo": "Analista"
+    },
+    {
+        "identificacion": "1003",
+        "nombre": "Carlos Ruiz",
+        "correo": "carlos.ruiz@email.com",
+        "fecha_nacimiento": "1992-03-15",
+        "fecha_creacion": "2024-07-01",
+        "cargo": "Líder de Proyecto"
+    },
+    {
+        "identificacion": "1006860796",
+        "nombre": "Cesar luis Rodriguez Solera",
+        "correo": "devcesarco@outlok.es",
+        "fecha_nacimiento": "2025-01-06",
+        "fecha_creacion": "2025-07-02",
+        "cargo": "Desarrollador aux"
+    },
+    {
+        "identificacion": "1006860792",
+        "nombre": "Cesar luis Rodriguez Solera",
+        "correo": "devcesarco@outlook.es",
+        "fecha_nacimiento": "2025-01-06",
+        "fecha_creacion": "2025-07-02",
+        "cargo": "Desarrollador aux"
+    },
+    {
+        "identificacion": "0164645645",
+        "nombre": "Cesar luis Rodriguez Solera",
+        "correo": "devcedfgrco@outlok.es",
+        "fecha_nacimiento": "2025-01-06",
+        "fecha_creacion": "2025-07-02",
+        "cargo": "Desarrollador aux"
+    },
+    {
+        "identificacion": "12312312",
+        "nombre": "prueba",
+        "correo": "devcrcdao@outlok.es",
+        "fecha_nacimiento": "2025-06-29",
+        "fecha_creacion": "2025-07-25",
+        "cargo": "Desarrollador aux"
+    }
+]
